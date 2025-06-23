@@ -1,0 +1,7 @@
+{
+  "action": "create_ec2",
+  "region": "ap-south-1",
+  "instance_type": "t3.micro",
+  "packages": ["python3", "nginx"],
+  "estimated_cost": "$12/month"
+}
